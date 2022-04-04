@@ -7,3 +7,4 @@ The code can be run for different parameters used in Omrani et al 2022 as well a
 
 File "AMO_etc_projection.ipynb" shows one example of using this code (for projecting AMO into the future).
 
+Navigate to: https://hub.gke2.mybinder.org/user/lina-boljka-mul-sion-projection-8x08xrat/lab/tree/Omrani_etal2022 to find interactive version of the provided Notebook, where parameters can be changed to see results/projections for different variables.
