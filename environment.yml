@@ -16,6 +16,9 @@ dependencies:
   - scipy=1.6.3
   - statsmodels
   - xarray
+  - basemap
+  - basemap-highres
+  - cartopy
   - pip:
     - pyct
     - pycwt
