@@ -5,5 +5,5 @@ Folders "txts" and "nc" include detrended timeseries and their trends, respectiv
 
 The code can be run for different parameters used in Omrani et al 2022 as well as some additional ones (like northern and southern European precipitation). The code typically uses multi-linear projection to predict specific variable's future timeseries from 4 variables: North Atlantic Oscillation (NAO), Atlantic Multidecadal Oscillation (AMO), sea ice, and the variable itself. For details see the manuscript or notebook itself.
 
-File "AMO_etc_projection.pdf" shows one example of using this code (for projecting AMO into the future).
+File "AMO_etc_projection.ipynb" shows one example of using this code (for projecting AMO into the future).
 
