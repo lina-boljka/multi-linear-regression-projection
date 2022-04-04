@@ -11,16 +11,9 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - pywavelets
   - scikit-learn
-  - scipy=1.6.3
+  - scipy
   - statsmodels
   - xarray
-  - basemap
-  - basemap-highres
-  - cartopy
   - pip:
-    - pyct
     - pycwt
-    - sklearn
-    - wavelets
