@@ -8,4 +8,4 @@ Interactive versions of notebooks from this repository can be accessed <a href="
 * USE THIS LINK IF YOU WISH TO CHANGE PARAMETERS IN THE NOTEBOOK!!!
 
 
-[![DOI](https://zenodo.org/badge/9025710.svg)](https://zenodo.org/badge/latestdoi/9025710)
+[![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969)
