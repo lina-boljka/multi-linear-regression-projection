@@ -8,4 +8,4 @@ Interactive versions of notebooks from this repository can be accessed <a href="
 * USE THIS LINK IF YOU WISH TO CHANGE PARAMETERS IN THE NOTEBOOK!!!
 
 
-[![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969)
+Cite as: Boljka, L., Omrani N.-E.: Multi-linear regression projection, version 1.0.0., doi:[![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969).
