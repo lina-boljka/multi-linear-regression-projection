@@ -1,3 +1,5 @@
+### Omrani et al 2022
+
 This folder includes the data and code used for producing multilinear regression based statistical projections in Omrani et al 2022 [doi:NPJCLIMATSCI-00698]. 
 
 File "AMO_etc_projection.ipynb" is a notebook with the code and additional detailed text & instructions on how to use it.
