@@ -16,7 +16,7 @@ File "AMO_etc_projection.ipynb" shows one example of using this code (for projec
 Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD">HERE</a> to folder "Omrani_etal2022" to find interactive version of the provided Notebook, where parameters can be changed to see results/projections for different variables.
 * We recommend changing only predictand parameters under "RUN FUNCTIONS" section (1). Everything else should then automatically work with the provided parameters - only the boxes/scripts below must be rerun upon chaning parameters. Results will appear under "PLOT" section.
 * Number of predictors can also be changed in section (2) of "RUN FUNCTIONS", but that would be more sophisticated and was not used in the manuscript.
-
+* If links above are not working copy & paste this into browser: https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD?labpath=Omrani_etal2022
 
 ### Citation
 * Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted. [doi:NPJCLIMATSCI-00698]
