@@ -17,3 +17,4 @@ Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression
 
 
 ### Citation
+* Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted. [doi:NPJCLIMATSCI-00698]
