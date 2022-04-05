@@ -20,5 +20,5 @@ Interactive versions of notebooks from this repository can be accessed <a href="
 [![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969)
 
 If you are using this code, cite: 
-* Boljka, L., and N.E. Omrani, 2022: Multilinear Regression Projection, version 1.0.1, DOI: 10.5281/zenodo.6414338. 
+* Boljka, L., & Omrani, N. (2022). Multilinear Regression Projection (Version 1.0.1) [Computer software]. https://doi.org/10.5281/zenodo.6414338
 * Additionally cite the paper from the relevant folder (e.g. Omrani et al. 2022)
