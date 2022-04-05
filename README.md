@@ -6,3 +6,6 @@ This repository for now includes only the code used for Omrani et al 2022 - thei
 Interactive versions of notebooks from this repository can be accessed <a href="https://hub.gke2.mybinder.org/user/lina-boljka-mul-sion-projection-8x08xrat/lab"> HERE</a>. The folder structure is the same as in this GitHub repository.
 * Here Notebooks can be amended and different parameters analysed/plotted!! 
 * USE THIS LINK IF YOU WISH TO CHANGE PARAMETERS IN THE NOTEBOOK!!!
+
+
+[![DOI](https://zenodo.org/badge/9025710.svg)](https://zenodo.org/badge/latestdoi/9025710)
