@@ -7,6 +7,6 @@ The code can be run for different parameters used in Omrani et al 2022 as well a
 
 File "AMO_etc_projection.ipynb" shows one example of using this code (for projecting AMO into the future).
 
-Navigate <a href="https://hub.gke2.mybinder.org/user/lina-boljka-mul-sion-projection-8x08xrat/lab/workspaces/auto-c/tree/Omrani_etal2022">HERE</a> to find interactive version of the provided Notebook, where parameters can be changed to see results/projections for different variables.
+Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD">HERE</a> to folder "Omrani_etal2022" to find interactive version of the provided Notebook, where parameters can be changed to see results/projections for different variables.
 * We recommend changing only predictand parameters under "RUN FUNCTIONS" section (1). Everything else should then automatically work with the provided parameters - only the boxes/scripts below must be rerun upon chaning parameters. Results will appear under "PLOT" section.
 * Number of predictors can also be changed in section (2) of "RUN FUNCTIONS", but that would be more sophisticated and was not used in the manuscript.
