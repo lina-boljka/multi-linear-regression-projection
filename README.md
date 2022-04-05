@@ -9,6 +9,8 @@ Python environment necessary to run the script is prvided in environment.yml.
 
 ### Interactive Notebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD)
+
 Interactive versions of notebooks from this repository can be accessed <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD"> HERE</a>. The folder structure is the same as in this GitHub repository.
 * Here Notebooks can be amended and different parameters analysed/plotted!! 
 * USE THIS LINK IF YOU WISH TO CHANGE PARAMETERS IN THE NOTEBOOK!!!
