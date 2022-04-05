@@ -7,7 +7,9 @@ Interactive versions of notebooks from this repository can be accessed <a href="
 * Here Notebooks can be amended and different parameters analysed/plotted!! 
 * USE THIS LINK IF YOU WISH TO CHANGE PARAMETERS IN THE NOTEBOOK!!!
 
+[![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969)
 
-If you are using this code, cite as: 
-* Boljka, L., and N.E. Omrani, 2022: Multi-linear regression projection, version 1.0.0. [![DOI](https://zenodo.org/badge/477755969.svg)](https://zenodo.org/badge/latestdoi/477755969).
-* Cite also: Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted. [doi:NPJCLIMATSCI-00698]
+# Citing this repository
+If you are using this code, cite: 
+* Boljka, L., and N.E. Omrani, 2022: Multi-linear regression projection, version 1.0.0, DOI: 10.5281/zenodo.6414165. 
+* Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted. [doi:NPJCLIMATSCI-00698]
