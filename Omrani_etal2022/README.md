@@ -1,6 +1,6 @@
 ## Omrani et al 2022
 
-This folder includes the data and code used for producing multilinear regression based statistical projections in Omrani et al 2022 [doi:NPJCLIMATSCI-00698]. 
+This folder includes the data and code used for producing multilinear regression based statistical projections in Omrani et al 2022 [https://doi.org/10.1038/s41612-022-00275-1]. 
 
 File "AMO_etc_projection.ipynb" is a notebook with the code and additional detailed text & instructions on how to use it.
 Folders "txts" and "nc" include detrended timeseries and their trends, respectively. 
@@ -19,4 +19,4 @@ Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression
 * If links above are not working copy & paste this into browser: https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression-projection.git/HEAD
 
 ### Citation
-* Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted. [doi:NPJCLIMATSCI-00698]
+* Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: A Coupled stratosphere-troposphere-Atlantic multidecadal oscillation and its importance for near-future climate projection. npj Climate and Atmospheric Science, 5:59, https://doi.org/10.1038/s41612-022-00275-1. 
