@@ -5,7 +5,7 @@ For now, this repository only includes code and data based on indices related to
 
 * The code has been prepared in a Jupyter notebook (called "AMO_etc_projection.ipynb") and is stored in the folder "Omrani_etal2022". The data necessary to run the script are provided in folders "txts" and "nc" next to the notebook. See README-file in the Omrani_etal2022 folder for further instructions. 
 
-Python environment necessary to run the script is prvided in environment.yml.
+Python environment necessary to run the script is provided in environment.yml.
 
 ### Interactive Notebook
 
