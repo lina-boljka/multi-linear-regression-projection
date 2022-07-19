@@ -1,7 +1,7 @@
 # Multilinear Regression Projection
 Code for multilinear regression used as a statistical projection of various variables. 
 
-For now, this repository only includes code and data based on indices related to Atlantic Multidecadal Oscillation and related physics in the North Atlantic - for details see Omrani et al. 2022 [doi:NPJCLIMATSCI-00698].
+For now, this repository only includes code and data based on indices related to Atlantic Multidecadal Oscillation and related physics in the North Atlantic - for details see Omrani et al. 2022 [npj Climate and Atmospheric Science (2022)5:59; https://doi.org/10.1038/s41612-022-00275-1].
 
 * The code has been prepared in a Jupyter notebook (called "AMO_etc_projection.ipynb") and is stored in the folder "Omrani_etal2022". The data necessary to run the script are provided in folders "txts" and "nc" next to the notebook. See README-file in the Omrani_etal2022 folder for further instructions. 
 
