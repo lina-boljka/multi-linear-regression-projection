@@ -25,5 +25,7 @@ Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression
 * Sea ice from COBE: https://psl.noaa.gov/data/gridded/data.cobe2.html 
 * Precipitation rate (ensemble mean) from NOAA20CR.v2: https://psl.noaa.gov/data/gridded/data.20thC_ReanV2.html
 
+All data were analysed as monthly means averaged over winter JFM season only.
+
 ### Citation
 * Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: A Coupled stratosphere-troposphere-Atlantic multidecadal oscillation and its importance for near-future climate projection. npj Climate and Atmospheric Science, 5:59, https://doi.org/10.1038/s41612-022-00275-1. 
