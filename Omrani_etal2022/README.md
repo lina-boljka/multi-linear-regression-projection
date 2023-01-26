@@ -21,9 +21,9 @@ Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression
 ### Data sources
 * Surface temperature from HadCRUT.5.0.1.0 (analysis): https://crudata.uea.ac.uk/cru/data/temperature/
 * Surface pressure from HadSLP2 used for computing NAO: https://www.metoffice.gov.uk/hadobs/hadslp2/  
-* Sea Surface Temperature (SST) from HadISST: https://www.metoffice.gov.uk/hadobs/hadisst/
+* Sea Surface Temperature (SST) from HadISST used for computing AMO: https://www.metoffice.gov.uk/hadobs/hadisst/
 * Sea ice from COBE: https://psl.noaa.gov/data/gridded/data.cobe2.html 
-* Precipitation & other variables from NOAA20CR.v2: https://psl.noaa.gov/data/gridded/data.20thC_ReanV2.html
+* Precipitation from NOAA20CR.v2: https://psl.noaa.gov/data/gridded/data.20thC_ReanV2.html
 
 ### Citation
 * Omrani, N.-E., N. S. Keenlyside, K. Matthes, L. Boljka, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: A Coupled stratosphere-troposphere-Atlantic multidecadal oscillation and its importance for near-future climate projection. npj Climate and Atmospheric Science, 5:59, https://doi.org/10.1038/s41612-022-00275-1. 
