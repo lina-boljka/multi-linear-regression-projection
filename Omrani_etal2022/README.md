@@ -23,7 +23,7 @@ Navigate <a href="https://mybinder.org/v2/gh/lina-boljka/multi-linear-regression
 * Surface pressure from HadSLP2 used for computing NAO: https://www.metoffice.gov.uk/hadobs/hadslp2/  
 * Sea Surface Temperature (SST) from HadISST used for computing AMO: https://www.metoffice.gov.uk/hadobs/hadisst/
 * Sea ice from COBE: https://psl.noaa.gov/data/gridded/data.cobe2.html 
-* Precipitation rate (ensemble mean) from NOAA20CR.v2: https://psl.noaa.gov/data/gridded/data.20thC_ReanV2.html
+* Precipitation rate (ensemble mean) from NOAA20CR.v3: https://psl.noaa.gov/data/gridded/data.20thC_ReanV3.html
 
 All data were analysed as monthly means averaged over winter JFM season only.
 
